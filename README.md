@@ -1,6 +1,6 @@
 ## Scopo
 
-Creare una libreria in grado di gestire le operazioni aritmetiche tra tempi. tempo è un' informazione che in quest esercizio vogliamo esprimere in ore e minuti
+Creare una libreria in grado di gestire le operazioni aritmetiche tra tempi. Il tempo è un' informazione che in questo esercizio vogliamo esprimere in ore e minuti.
 
 ## Procedimento
 Troverai già lo scheletro di alcune classi. Lo scopo è costruire una classe Tempo concreta che implementi l'interfaccia Aritmetica declinata nel generico
